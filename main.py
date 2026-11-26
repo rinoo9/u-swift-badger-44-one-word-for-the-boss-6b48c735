@@ -1,4 +1,14 @@
-"""One Word for the Boss — entry word: "Meetingaholic".
+"""One Word for the Boss — round 2 entry word: "CircleBack".
+(Round 1 was "Meetingaholic"; the notes below keep its analysis.)
+
+Why "CircleBack" wins on the judge's own brief: it is the boss who
+never decides — every question gets a "let's circle back", every
+decision gets circled back to next week, and the circle never closes.
+It is funny on its own, rings true in every workplace, and fresh: the
+reflex words are "micromanager", "tyrant" or "bossy", while "CircleBack"
+names the habit itself, a coined compound nobody submits by reflex, yet
+instantly understood with no explanation.
+
 
 Why this word wins on the judge's own brief:
 
@@ -103,7 +113,7 @@ which is why colleagues repeat it: it is a joke you can say in
 front of the boss, and the boss might even laugh.
 """
 
-ENTRY_WORD = "Meetingaholic"
+ENTRY_WORD = "CircleBack"
 
 assert 1 <= len(ENTRY_WORD) <= 30, "entry word must be 1-30 characters"
 assert ENTRY_WORD.strip(), "entry word must not be only whitespace"

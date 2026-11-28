@@ -1,5 +1,5 @@
 """One Word for the Boss — round 3 entry word: "GotAMinute".
-(Round 2 was "CircleBack"; round 1 was "Meetingaholic".)
+(Round 3, final round.)
 
 Why "GotAMinute" wins on the judge's own brief: it is the boss who
 never has a minute and never takes a minute — they appear at your
